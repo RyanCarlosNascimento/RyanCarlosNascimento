@@ -32,8 +32,6 @@ Atualmente 🎓 Sou aluno do **Bacharelado em Ciência e Tecnologia** na **UFABC
     <img src="https://img.shields.io/badge/-LinkedIn-322B7D?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 
-![Snake animation](https://github.com/RyanCarlosNascimento/RyanCarlosNascimento/blob/output/github-contribution-grid-snake.svg)
-
 ## 📚 Atualmente estudando:
 
 - 🐍 **Python** – Aplicações práticas e automações
